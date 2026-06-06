@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aykadir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aykadir)
 [![Email](https://img.shields.io/badge/Email-kadir%40kadiray.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadir@kadiray.com)
 [![forum.ieu.app](https://img.shields.io/badge/forum.ieu.app-8K_users-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://forum.ieu.app)
-[![Quedl](https://img.shields.io/badge/Quedl-soft_launch-14B8A6?style=for-the-badge&logo=heart&logoColor=white)](https://quedl.com)
+[![Quedl](https://img.shields.io/badge/quedl.com-soft_launch-14B8A6?style=for-the-badge)](https://quedl.com)
 
 <br/>
 

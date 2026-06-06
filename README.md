@@ -1,17 +1,29 @@
+<div align="center">
+
 # Kadir Ay
 
-Computer Engineering senior at Izmir University of Economics. I build full-stack web applications.
+**Full-stack developer · Senior @ Izmir University of Economics · Türkiye**
 
-- LinkedIn: [linkedin.com/in/aykadir](https://linkedin.com/in/aykadir)
-- Email: kadir@kadiray.com
+I ship products. forum.ieu.app has 8,000 active users. Quedl launches soon. The rest is in the projects below.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aykadir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aykadir)
+[![Email](https://img.shields.io/badge/Email-kadir%40kadiray.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadir@kadiray.com)
+[![forum.ieu.app](https://img.shields.io/badge/forum.ieu.app-8K%20users-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://forum.ieu.app)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=sucreistaken&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=14B8A6&icon_color=14B8A6&text_color=666)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sucreistaken&layout=compact&hide_border=true&theme=transparent&title_color=14B8A6&text_color=666&langs_count=8)
+
+</div>
+
+---
 
 ## What I'm working on
 
-**Quedl** ([quedl.com](https://quedl.com)) — A dating app for Turkish university students with `.edu.tr` email verification. Web app (PWA) built with Next.js, Express, and MongoDB. Soft launch coming. The repository is private; I can show you a demo or walk through the code if you reach out.
+🟢 **[Quedl](https://quedl.com)** — Dating app for Turkish university students, `.edu.tr` email verified. PWA built with Next.js, Express, MongoDB. Soft launch coming. Repository is private; demo or code walkthrough on request.
 
-**forum.ieu.app** — University community forum for Izmir University of Economics. Around 8,000 active users. Sponsored by Red Bull and Youthall. Built on NodeBB with several custom plugins (most of them in the list below).
+🟢 **[forum.ieu.app](https://forum.ieu.app)** — University community forum for Izmir University of Economics. ~8,000 active users. Sponsored by Red Bull and Youthall. Built on NodeBB with custom plugins I wrote (most of them are in the list below).
 
-**prompt-clash** — A live AI image prompt battle game I built for university events. Players join with QR codes from their phones, write prompts, and an AI judges the winner on the big screen.
+🟡 **[prompt-clash](https://github.com/sucreistaken/prompt-clash)** — Live AI image prompt battle game for university events. Players join with QR codes from their phones, write prompts, an AI judges the winner on the big screen.
 
 ## Featured projects
 
@@ -80,14 +92,14 @@ Tiny Bash CLI that talks to any OpenAI-compatible chat API. Works with Gemini, G
 
 ## Tech stack
 
-**Frontend** Next.js, React, Tailwind, TypeScript, Zustand
-**Backend** Node + Express, Spring Boot, Python (Flask, FastAPI)
-**Databases** MongoDB, PostgreSQL
-**AI** Gemini, Whisper, OpenAI-compatible APIs
-**Infrastructure** Docker, Google Cloud, nginx, GitHub Actions
+**Frontend** Next.js · React · Tailwind · TypeScript · Zustand
+**Backend** Node + Express · Spring Boot · Python (Flask, FastAPI)
+**Databases** MongoDB · PostgreSQL
+**AI** Gemini · Whisper · OpenAI-compatible APIs
+**Infrastructure** Docker · Google Cloud · nginx · GitHub Actions
 
 I also maintain a set of [NodeBB plugins](https://github.com/sucreistaken?tab=repositories&q=nodebb-plugin) used on forum.ieu.app: event calendar, polls, PDF preview, bulk announcement mailer, loyalty wallet, and a few others.
 
 ## Contact
 
-kadir@kadiray.com · [linkedin.com/in/aykadir](https://linkedin.com/in/aykadir)
+📫 **kadir@kadiray.com** · [linkedin.com/in/aykadir](https://linkedin.com/in/aykadir)

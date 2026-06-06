@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F766E&height=200&section=header&text=Kadir%20Ay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Izmir%20University%20of%20Economics&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/sucreistaken">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=I+ship+products+real+people+use;forum.ieu.app+%E2%80%94+8%2C000+active+university+students;Quedl+%E2%80%94+Turkish+university+dating+PWA+(soft+launch);Open+to+freelance+%26+collaboration" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=I+ship+products+real+people+use;forum.ieu.app+%E2%80%94+8%2C000+active+university+students;Quedl+%E2%80%94+Turkish+university+dating+PWA+(soft+launch);Open+to+freelance+%26+collaboration" alt="What I do" />
 </a>
 
 <br/><br/>
@@ -12,33 +12,23 @@
 [![Email](https://img.shields.io/badge/Email-kadir%40kadiray.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadir@kadiray.com)
 [![forum.ieu.app](https://img.shields.io/badge/forum.ieu.app-8K_users-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://forum.ieu.app)
 [![Quedl](https://img.shields.io/badge/Quedl-soft_launch-14B8A6?style=for-the-badge&logo=heart&logoColor=white)](https://quedl.com)
+[![Profile views](https://komarev.com/ghpvc/?username=sucreistaken&label=Profile%20views&color=14B8A6&style=for-the-badge)](#)
 
 <br/>
 
-<table border="0">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sucreistaken&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=14B8A6&icon_color=14B8A6&bg_color=0d1117&text_color=c9d1d9" />
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sucreistaken&theme=tokyonight&hide_border=true&background=0d1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucreistaken&layout=compact&hide_border=true&theme=tokyonight&title_color=14B8A6&bg_color=0d1117&text_color=c9d1d9&langs_count=10&card_width=600" />
+<img src="https://streak-stats.demolab.com/?user=sucreistaken&theme=tokyonight&hide_border=true&background=0d1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=c9d1d9&dates=c9d1d9&sideNums=14B8A6&currStreakNum=ffffff" />
 
 <br/><br/>
 
-### Tech I work with
+### 🛠️ Tools I work with
 
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,spring,java&theme=dark" /></a>
 <br/>
 <a href="#"><img src="https://skillicons.dev/icons?i=python,flask,mongodb,postgres,docker,gcp,nginx,bash&theme=dark" /></a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucreistaken&bg_color=0d1117&color=14B8A6&line=14B8A6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity%20(last%2030%20days)" width="100%" />
 
 </div>
 
@@ -54,7 +44,7 @@
 
 ---
 
-## 🛠️ Featured projects
+## ⭐ Featured projects
 
 <table>
 <tr>
@@ -137,12 +127,6 @@ Tiny Bash CLI that talks to any OpenAI-compatible chat API. Works with Gemini, G
 </table>
 
 I also maintain a set of [NodeBB plugins](https://github.com/sucreistaken?tab=repositories&q=nodebb-plugin) used on forum.ieu.app: event calendar, polls, PDF preview, bulk announcement mailer, loyalty wallet, and a few others.
-
----
-
-## 📈 Contribution activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucreistaken&bg_color=0d1117&color=14B8A6&line=14B8A6&point=ffffff&area=true&hide_border=true" width="100%" />
 
 ---
 

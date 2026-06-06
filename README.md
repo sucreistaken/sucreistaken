@@ -12,11 +12,13 @@
 [![Email](https://img.shields.io/badge/Email-kadir%40kadiray.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadir@kadiray.com)
 [![forum.ieu.app](https://img.shields.io/badge/forum.ieu.app-8K_users-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://forum.ieu.app)
 [![Quedl](https://img.shields.io/badge/Quedl-soft_launch-14B8A6?style=for-the-badge&logo=heart&logoColor=white)](https://quedl.com)
-[![Profile views](https://komarev.com/ghpvc/?username=sucreistaken&label=Profile%20views&color=14B8A6&style=for-the-badge)](#)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sucreistaken&theme=tokyonight&hide_border=true&background=0d1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=c9d1d9&dates=c9d1d9&sideNums=14B8A6&currStreakNum=ffffff" />
+![Profile views](https://komarev.com/ghpvc/?username=sucreistaken&label=Profile%20views&color=14B8A6&style=flat-square)
+![Years coding](https://img.shields.io/badge/Building_since-2022-14B8A6?style=flat-square)
+![Production users](https://img.shields.io/badge/Production_users-8%2C000%2B-14B8A6?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open_to-freelance_%26_collab-14B8A6?style=flat-square)
 
 <br/><br/>
 
@@ -28,7 +30,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucreistaken&bg_color=0d1117&color=14B8A6&line=14B8A6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity%20(last%2030%20days)" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucreistaken&bg_color=0d1117&color=14B8A6&line=14B8A6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" width="100%" />
 
 </div>
 

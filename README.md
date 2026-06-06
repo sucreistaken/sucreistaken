@@ -1,84 +1,39 @@
-<div align="center">
+# Kadir Ay
 
-# Hi, I'm Kadir.
+Computer Engineering senior at Izmir University of Economics. I build full-stack web applications.
 
-**I build products real students use.**
-Final-year Computer Engineering @ Izmir University of Economics · Full-stack · Türkiye
+- LinkedIn: [linkedin.com/in/aykadir](https://linkedin.com/in/aykadir)
+- Email: kadir@kadiray.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aykadir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aykadir)
-[![Email](https://img.shields.io/badge/Email-kadir%40kadiray.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadir@kadiray.com)
-[![Forum](https://img.shields.io/badge/forum.ieu.app-8%2C000%2B%20users-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://forum.ieu.app)
+## What I'm working on
 
-</div>
+**Quedl** ([quedl.com](https://quedl.com)) — A dating app for Turkish university students with `.edu.tr` email verification. Web app (PWA) built with Next.js, Express, MongoDB. Soft launch coming. Repository is private; I can show you a demo or walk through the code if you reach out.
 
----
+**forum.ieu.app** — University community forum for Izmir University of Economics. Around 8,000 active users. Sponsored by Red Bull and Youthall. Built on NodeBB with several custom plugins (most of them in the list below).
 
-## Currently building
-
-🟢 **[Quedl](https://quedl.com)** — Turkish university dating PWA, `.edu.tr` exclusive, soft-launch incoming. Activity-based slot discovery instead of swipe-on-everyone, 24h ephemeral chat after match. *Repo private; demo / code walkthrough on request.*
-
-🟢 **[forum.ieu.app](https://forum.ieu.app)** — University community platform · 8,000+ active members · sponsored by Red Bull & Youthall
-
-🟡 **[prompt-clash](https://github.com/sucreistaken/prompt-clash)** — QR-based 1v1 AI image prompt battles for events · touring campus events
-
----
+**prompt-clash** — A live AI image prompt battle game I built for university events. Players join with QR codes from their phones, write prompts, and an AI judges the winner on the big screen.
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | What it does | Stack |
+|---|---|---|
+| [AIcelerate](https://github.com/sucreistaken/AIcelerate) | Online study rooms with shared quizzes, flashcards, and an AI tutor. Audio lectures are transcribed with Whisper. | React, TypeScript, Node, Socket.io, Whisper, Gemini |
+| [forum-moderation-api](https://github.com/sucreistaken/forum-moderation-api) | Content moderation service used by forum.ieu.app. Flags spam, profanity, and harassment using Gemini. | Java 21, Spring Boot, Gemini, Docker |
+| [switchview](https://github.com/sucreistaken/switchview) | Web dashboard that shows which device is plugged into which switch port on our campus network. Runs in production. | Python, Flask, SNMPv3 |
+| [free-cv-maker](https://github.com/sucreistaken/free-cv-maker) | CV and cover letter builder that runs entirely in the browser. No accounts, no servers, exports PDF. | React, TypeScript, Tailwind |
+| [prompt-clash](https://github.com/sucreistaken/prompt-clash) | 1v1 AI image-prompt game for events. Phone for players, big screen for the audience. | Next.js, TypeScript, Gemini |
+| [ask](https://github.com/sucreistaken/ask) | Small Bash CLI that talks to any OpenAI-compatible chat API (Gemini, Groq, OpenAI, OpenRouter). | Bash, curl, jq |
 
-### 🧠 [AIcelerate](https://github.com/sucreistaken/AIcelerate)
-Real-time collaborative study platform with AI transcription. Virtual study rooms, adaptive quizzes, SM-2 flashcards, mind maps, deep-dive AI chat, group Pomodoros.
+## Tech stack
 
-`React 19` `TypeScript` `Node` `Socket.io` `Whisper` `Gemini`
+**Frontend** Next.js, React, Tailwind, TypeScript
+**Backend** Node, Express, Spring Boot, Python (Flask)
+**Databases** MongoDB, PostgreSQL
+**AI** Gemini, Whisper, OpenAI-compatible APIs
+**Infrastructure** Docker, Google Cloud, nginx, GitHub Actions
 
-</td>
-<td width="50%" valign="top">
+I also maintain a set of [NodeBB plugins](https://github.com/sucreistaken?tab=repositories&q=nodebb-plugin) used on forum.ieu.app: event calendar, polls, PDF preview, bulk announcement mailer, loyalty wallet, and a few others.
 
-### 🤖 [forum-moderation-api](https://github.com/sucreistaken/forum-moderation-api)
-AI-powered content moderation microservice for forum.ieu.app — real-time spam / profanity / harassment detection for 8,000+ users.
+## Contact
 
-`Java 21` `Spring Boot 4` `Gemini` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [switchview](https://github.com/sucreistaken/switchview)
-SNMP-based network monitoring + MAC visibility for campus networks — currently in production on a ~40-switch Huawei/Cisco fleet.
-
-`Python` `Flask` `SNMPv3` `pysnmp`
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [free-cv-maker](https://github.com/sucreistaken/free-cv-maker)
-Privacy-first CV + cover-letter builder. Runs entirely in your browser, 7 templates, drag-and-drop sections, instant PDF export.
-
-`React 19` `TypeScript` `Tailwind 4` `Zustand` `jsPDF`
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech I reach for
-
-**Frontend** Next.js · React · Tailwind · TypeScript · Zustand · Framer Motion
-**Backend** Node + Express · Spring Boot · Python (Flask, FastAPI) · MongoDB · Postgres
-**AI / ML** Gemini · Whisper · OpenAI-compatible APIs · SIFT + OpenCV
-**Infra** Docker Compose · GCP Compute Engine · nginx · GitHub Actions
-**Forum ecosystem** NodeBB plugin author — events, polls, PDF preview, loyalty wallet, bulk mailer
-
----
-
-## Talk to me
-
-About: real-product engineering · Turkish-market consumer apps · NodeBB at scale · campus tech ·
-freelance / collab on something that ships, not just demos.
-
-📫 **kadir@kadiray.com** · [linkedin.com/in/aykadir](https://linkedin.com/in/aykadir)
+kadir@kadiray.com · [linkedin.com/in/aykadir](https://linkedin.com/in/aykadir)

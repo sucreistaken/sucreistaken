@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F766E&height=200&section=header&text=Kadir%20Ay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Izmir%20University%20of%20Economics&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/sucreistaken">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=I+ship+products+real+people+use;forum.ieu.app+%E2%80%94+8%2C000+active+university+students;Quedl+%E2%80%94+Turkish+university+dating+PWA+(soft+launch);Open+to+freelance+%26+collaboration" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=I+ship+products+real+people+use;forum.ieu.app+%E2%80%94+8%2C000+active+university+students;Quedl+%E2%80%94+activity-based+friend-finder+for+university+students;Open+to+freelance+%26+collaboration" alt="What I do" />
 </a>
 
 <br/><br/>
@@ -38,7 +38,7 @@
 
 ## 🚀 What I'm working on
 
-🟢 **[Quedl](https://quedl.com)** — Dating app for Turkish university students, `.edu.tr` email verified. PWA built with Next.js, Express, MongoDB. Soft launch coming. Repository is private; demo or code walkthrough on request.
+🟢 **[Quedl](https://quedl.com)** — Activity-based way for Turkish university students to find friends. Pick an activity for the week (training, coffee, finals mode, cinema, concert, hiking…), match with students who picked the same, chat for 24 hours. `.edu.tr` email verified. PWA built with Next.js, Express, MongoDB. Soft launch coming. Repository is private; demo or code walkthrough on request.
 
 🟢 **[forum.ieu.app](https://forum.ieu.app)** — University community forum for Izmir University of Economics. ~8,000 active users. Sponsored by Red Bull and Youthall. Built on NodeBB with custom plugins I wrote (most of them are in the list below).
 

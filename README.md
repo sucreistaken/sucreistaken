@@ -38,7 +38,7 @@
 
 ## 🚀 What I'm working on
 
-🟢 **[Quedl](https://quedl.com)** — Activity-based way for Turkish university students to find friends. Pick an activity for the week (training, coffee, finals mode, cinema, concert, hiking…), match with students who picked the same, chat for 24 hours. `.edu.tr` email verified. PWA built with Next.js, Express, MongoDB. Soft launch coming. Repository is private; demo or code walkthrough on request.
+🟢 **[Quedl](https://quedl.com)** — Activity-based way for Turkish university students to find friends. Pick an activity for the week (coffee, finals mode, cinema, concert, hiking…), match with students who picked the same, chat for 24 hours. `.edu.tr` email verified. PWA built with Next.js, Express, MongoDB. Soft launch coming. Repository is private; demo or code walkthrough on request.
 
 🟢 **[forum.ieu.app](https://forum.ieu.app)** — University community forum for Izmir University of Economics. ~8,000 active users. Sponsored by Red Bull and Youthall. Built on NodeBB with custom plugins I wrote (most of them are in the list below).
 
